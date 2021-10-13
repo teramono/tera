@@ -1,8 +1,8 @@
 package runtime
 
 import (
-	"github.com/teramono/capabilities/pkg/globals"
-	"github.com/teramono/capabilities/pkg/lib"
+	"github.com/teramono/tera/pkg/cap/globals"
+	"github.com/teramono/tera/pkg/cap/lib"
 	"rogchap.com/v8go"
 )
 
